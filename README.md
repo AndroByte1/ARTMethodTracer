@@ -26,20 +26,7 @@ Python 3.8+
 ### Required Python Packages
 
 ```bash
-pip install PyQt5 frida
-```
-
----
-
-## Required Imports
-
-The tool relies on the following Python modules:
-
-```python
-import sys
-import frida
-from PyQt5.QtWidgets import *
-from PyQt5.QtCore import *
+pip install PyQt5 frida 
 ```
 
 ---
@@ -50,7 +37,6 @@ from PyQt5.QtCore import *
 python main.py
 ```
 
-(Replace `main.py` with your script filename.)
 
 ---
 
@@ -64,6 +50,4 @@ python main.py
 
 ---
 
-## Disclaimer
 
-This tool is intended for educational purposes and authorized security testing only.
