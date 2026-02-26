@@ -22,6 +22,7 @@ It is designed for security research, reverse engineering, and runtime behavior 
 ## Requirements
 
 Python 3.8+
+frida on both mobile and Main os
 
 ### Required Python Packages
 
