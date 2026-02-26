@@ -5,8 +5,7 @@ Trace. Inspect. Analyze.
 ARTMethodTracer is a dynamic Android Runtime (ART) analysis tool that enables runtime method tracing and return value inspection for Android applications.
 
 It is designed for security research, reverse engineering, and runtime behavior analysis.
-
----
+![UI](https://raw.githubusercontent.com/AndroByte1/ARTMethodTracer/refs/heads/main/exmp.png)---
 
 ## Features
 
